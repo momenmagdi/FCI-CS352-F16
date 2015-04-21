@@ -1,0 +1,12 @@
+<html>
+<head>
+</head>
+
+<body>
+	<form action="/social/SendMessage" method="post">
+	 
+		<p> Receive message from  <p>
+	</form>
+
+</body>
+</html>
